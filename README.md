@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- I’m a senior teacher in [Algoritmika](https://algoritmika.org/ru)
-- Сompleted the course in Otus [Golang Developer Basic](https://otus.ru/certificate/466fc7a97cbb490d98eb8a58fa9e342f/)
-
 #### Repository stats
 
 <div>
